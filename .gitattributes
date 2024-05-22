@@ -1,1 +1,10 @@
-Content/Art/**[[:space:]]filter=lfs[[:space:]]diff=lfs[[:space:]]merge=lfs[[:space:]]-text filter=lfs diff=lfs merge=lfs -text
+Content/LevelArt/**[[:space:]]filter=lfs[[:space:]]diff=lfs[[:space:]]merge=lfs[[:space:]]-text filter=lfs diff=lfs merge=lfs -text
+Content/FPWeapon/**
+Content/Materials/**
+Content/Megascans/**
+Content/SFX/**
+Content/VRTemplate/**
+Content/VRSpectator/**
+Content/MSPresets/**
+Content/LowPoly_Assets/**
+Content/Characters/**
